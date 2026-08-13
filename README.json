@@ -1,0 +1,751 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:24:06Z",
+            "owner": "directus",
+            "repo": "directus",
+            "stars": 37365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community Help Board",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:24:06Z",
+            "owner": "directus",
+            "repo": "directus",
+            "stars": 37365
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nuxt Directus",
+          "description": "First-Class Nuxt 3 Module for connecting with an Directus instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-07T13:02:02Z",
+            "owner": "Intevel",
+            "repo": "nuxt-directus",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-directus",
+          "description": "A set of React components and utilities for Directus Headless CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T17:39:09Z",
+            "owner": "gremo",
+            "repo": "react-directus",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP SDK",
+          "description": "PHP SDK to provide easy access to the Directus API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-21T16:46:10Z",
+            "owner": "alantiller",
+            "repo": "directus-php-sdk",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cool-stack",
+          "description": "Template repository integrating Directus & Remix into a full-stack monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:37:58Z",
+            "owner": "tdsoftpl",
+            "repo": "cool-stack",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lite SDK (TypeScript)",
+          "description": "Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-01T01:09:52Z",
+            "owner": "jacoborus",
+            "repo": "directus-lite-sdk",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generate Types",
+          "description": "Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-09-01T14:48:40Z",
+            "owner": "maltejur",
+            "repo": "directus-extension-generate-types",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computed Interface",
+          "description": "Perform computed value based on other fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-04T08:12:24Z",
+            "owner": "rezo-labs",
+            "repo": "directus-extension-computed-interface",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexible Editor",
+          "description": "A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T09:50:08Z",
+            "owner": "formfcw",
+            "repo": "directus-extension-flexible-editor",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editor.js Interface",
+          "description": "Block editor (Editor.js) interface for Directus 9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-04-17T07:56:02Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-editorjs-interface",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Scout",
+          "description": "Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-01T23:13:41Z",
+            "owner": "resauce-dev",
+            "repo": "directus-image-scout",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Sync",
+          "description": "Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-07T19:16:12Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-searchsync",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API Viewer",
+          "description": "View and run API queries directly from a Module.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2024-05-23T06:47:48Z",
+            "owner": "u12206050",
+            "repo": "directus-extension-api-viewer-module",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Field Actions",
+          "description": "Adds copy to clipboard and open URL's action-buttons to fields (interface + display).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T13:49:24Z",
+            "owner": "utomic-media",
+            "repo": "directus-extension-field-actions",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordPress-like Slug",
+          "description": "Slug/Permalink interface with support for pre- and suffixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-07-22T13:57:37Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-wpslug-interface",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directus Copilot",
+          "description": "A bundle including a panel to ask data-aware questions in a chat interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-01T02:00:22Z",
+            "owner": "programmarchy",
+            "repo": "directus-extension-copilot",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tags M2M",
+          "description": "M2M driven tags interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-07-26T10:47:14Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-tags-m2m-interface",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab Group Interface",
+          "description": "Display groups as tab panels, as a pretty, space saving alternative to the accordion group.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2026-03-30T17:19:26Z",
+            "owner": "hanneskuettner",
+            "repo": "directus-extension-group-tabs-interface",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiptap Interface & Display",
+          "description": "Tiptap rich text editor interface and display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T03:13:36Z",
+            "owner": "gbicou",
+            "repo": "directus-extension-tiptap",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Display Link",
+          "description": "Display URLs with an \"open in new tab\" button.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-16T21:17:45Z",
+            "owner": "AlexGaillard",
+            "repo": "directus-extension-display-link",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Group Modal",
+          "description": "Group interface fields into a modal that can be opened with a button.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-05-08T09:12:52Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-group-modal-interface",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media AI Bundle",
+          "description": "Two operations to perform image description and OCR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-28T16:09:33Z",
+            "owner": "Arood",
+            "repo": "directus-extension-media-ai-bundle",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Automatic Translation",
+          "description": "An operaiton to automatically translate new items via OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-02T19:13:14Z",
+            "owner": "timio23",
+            "repo": "directus-operation-auto-translate",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directus Mailer",
+          "description": "An endpoint for sending emails with the Directus Nodemailer service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-13T18:07:31Z",
+            "owner": "ryntab",
+            "repo": "Directus-Mailer",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dictionary",
+          "description": "Save key-value pairs as JSON blobs with a progress indicator for completeness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-05-28T21:45:09Z",
+            "owner": "gxvxc",
+            "repo": "directus-dictionary",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inline Form Interface",
+          "description": "Edit M2O relations in an inline form contained in the parent record.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-09T18:03:13Z",
+            "owner": "hanneskuettner",
+            "repo": "directus-extension-inline-form-interface",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVG Map Picker Interface",
+          "description": "Select a value from a SVG Map box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-05T20:39:15Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-svgmap-picker-interface",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Grid Interface",
+          "description": "A data grid interface width for Directus 9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-02-26T12:17:03Z",
+            "owner": "seymoe",
+            "repo": "directus-extension-vgrid-interface",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Link Meta",
+          "description": "Stores hyperlink metadata into Directus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-07-21T16:15:38Z",
+            "owner": "dimitrov-adrian",
+            "repo": "directus-extension-linkmeta",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlurHash",
+          "description": "A Directus extension that generates blurhashes for uploaded images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-07T14:58:03Z",
+            "owner": "pixielabs",
+            "repo": "directus-extension-blurhash",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directus LogSnag",
+          "description": "Sending your events from Directus directly to your phone using LogSnag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-10T11:17:13Z",
+            "owner": "Intevel",
+            "repo": "directus-logsnag",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL Panel",
+          "description": "Panel component which shows result of stored SQL query as a table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-01-06T04:42:18Z",
+            "owner": "harish2704",
+            "repo": "directus-sql-panel",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imagga Hook",
+          "description": "Hook for file uploads to automatically tag images with Imagga API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:14:58Z",
+            "owner": "gbicou",
+            "repo": "directus-extension-imagga",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Date Picker Interface",
+          "description": "An alternative Date Picker Interface to the original Directus DateTime interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-12-09T14:54:40Z",
+            "owner": "u12206050",
+            "repo": "directus-9-date-picker-interface",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Operations",
+          "description": "A set of extensions to train, test and use machine learning models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-31T03:22:48Z",
+            "owner": "karamokoisrael",
+            "repo": "directus-hackathon-submission",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab Group",
+          "description": "A group interface with a tab menu for toggling the visibility of fields within the group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-09-17T13:49:32Z",
+            "owner": "formfcw",
+            "repo": "directus-extension-tab-group",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classified Group",
+          "description": "A group to which a class can be assigned for custom styling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-17T13:22:32Z",
+            "owner": "formfcw",
+            "repo": "directus-extension-classified-group",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokenized Preview",
+          "description": "An endpoint that adds an active auth token to your preview URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-08T08:39:41Z",
+            "owner": "formfcw",
+            "repo": "directus-extension-tokenized-preview",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draw Interface",
+          "description": "Free draw interface for Directus app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-10-18T04:45:59Z",
+            "owner": "jesusgp22",
+            "repo": "directus-draw-interface",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drawer Notice",
+          "description": "A notice field that is only visible in the drawer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-17T13:33:52Z",
+            "owner": "formfcw",
+            "repo": "directus-extension-drawer-notice",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparkLine Display",
+          "description": "A sparkline display with for Directus 9.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-02-25T12:14:50Z",
+            "owner": "seymoe",
+            "repo": "directus-extension-sparkline-display",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanitize HTML",
+          "description": "Sanitize HTML inputs to Directus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-18T15:59:01Z",
+            "owner": "licitdev",
+            "repo": "directus-extension-sanitize-html",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto generate file transformations",
+          "description": "Automatically generate selected file transformations on upload",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T14:01:35Z",
+            "owner": "utomic-media",
+            "repo": "directus-extension-auto-generate-file-transformations",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umami Analytics",
+          "description": "Add Umami analytics to Directus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-14T18:22:59Z",
+            "owner": "egidiusmengelberg",
+            "repo": "directus-extension-umami",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woodpecker Build Status",
+          "description": "Adds status bar for Woodpecker pipeline build status to Directus UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-08T10:46:16Z",
+            "owner": "sguter90",
+            "repo": "directus-extension-woodpecker-build-status",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "If you're using Directus in an open source project, you're very welcome to link this project here.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agency OS",
+          "description": "Fully complete, opinionated agency website template featuring Nuxt and Directus. View Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-06T00:04:00Z",
+            "owner": "directus-labs",
+            "repo": "agency-os",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Examples",
+          "description": "Integration examples with Directus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2024-01-18T13:23:49Z",
+            "owner": "directus-labs",
+            "repo": "examples",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuxt 3 Demo",
+          "description": "Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2023-06-14T04:20:33Z",
+            "owner": "bryantgillespie",
+            "repo": "nuxt3-directus-starter",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextus",
+          "description": "A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-14T12:35:03Z",
+            "owner": "luochuanyuewu",
+            "repo": "nextus",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Examples / Showcases"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:26:36.111Z",
+    "original_repository": "directus-labs/awesome-directus",
+    "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
+    "enhanced_repository": "enhansome/enhansome-directus",
+    "enhanced_repository_description": null,
+    "title": "Awesome Directus with stars"
+  }
+}
