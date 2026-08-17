@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:04:35Z",
+            "last_commit": "2026-08-17T20:50:37Z",
             "owner": "directus",
             "repo": "directus",
-            "stars": 37425
+            "stars": 37444
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:04:35Z",
+            "last_commit": "2026-08-17T20:50:37Z",
             "owner": "directus",
             "repo": "directus",
-            "stars": 37425
+            "stars": 37444
           }
         }
       ],
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:54:43.253Z",
+    "last_updated": "2026-08-17T20:59:20.945Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
     "enhanced_repository": "enhansome/enhansome-directus",
