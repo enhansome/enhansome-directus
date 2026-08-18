@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:50:37Z",
+            "last_commit": "2026-08-18T20:40:36Z",
             "owner": "directus",
             "repo": "directus",
-            "stars": 37444
+            "stars": 37456
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:50:37Z",
+            "last_commit": "2026-08-18T20:40:36Z",
             "owner": "directus",
             "repo": "directus",
-            "stars": 37444
+            "stars": 37456
           }
         }
       ],
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T17:39:09Z",
+            "last_commit": "2026-08-18T18:30:03Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
@@ -686,7 +686,7 @@
             "last_commit": "2026-03-06T00:04:00Z",
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 965
+            "stars": 964
           }
         },
         {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:59:20.945Z",
+    "last_updated": "2026-08-18T20:56:25.562Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
     "enhanced_repository": "enhansome/enhansome-directus",
