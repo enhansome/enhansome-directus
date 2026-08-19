@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,463 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-19
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,463 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-19
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,472 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-19
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,472 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-19
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
