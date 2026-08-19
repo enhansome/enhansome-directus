@@ -1,46 +1,50 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7122594,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:28:57Z",
+                "owner": "directus",
+                "repo": "directus",
+                "stars": 37463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Community Help Board",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7122594,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:28:57Z",
+                "owner": "directus",
+                "repo": "directus",
+                "stars": 37463
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:40:36Z",
-            "owner": "directus",
-            "repo": "directus",
-            "stars": 37456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Community Help Board",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:40:36Z",
-            "owner": "directus",
-            "repo": "directus",
-            "stars": 37456
-          }
-        }
-      ],
-      "title": "Official"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473087322,
             "language": "TypeScript",
             "last_commit": "2025-02-07T13:02:02Z",
             "owner": "Intevel",
@@ -63,8 +68,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364084896,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:30:03Z",
+            "last_commit": "2026-08-18T21:56:39Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
@@ -77,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346176135,
             "language": "PHP",
             "last_commit": "2025-10-21T16:46:10Z",
             "owner": "alantiller",
@@ -91,8 +98,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523243044,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:15:52Z",
+            "last_commit": "2026-08-18T23:25:59Z",
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 35
@@ -105,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484906831,
             "language": "TypeScript",
             "last_commit": "2022-05-01T01:09:52Z",
             "owner": "jacoborus",
@@ -116,7 +125,7 @@
       "title": "Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -125,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 413128119,
             "language": "TypeScript",
             "last_commit": "2024-09-01T14:48:40Z",
             "owner": "maltejur",
@@ -139,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535727643,
             "language": "TypeScript",
             "last_commit": "2024-07-04T08:12:24Z",
             "owner": "rezo-labs",
@@ -153,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669088314,
             "language": "TypeScript",
             "last_commit": "2026-08-09T09:50:08Z",
             "owner": "formfcw",
@@ -167,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318789143,
             "language": "CSS",
             "last_commit": "2023-04-17T07:56:02Z",
             "owner": "dimitrov-adrian",
@@ -181,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329312878,
             "language": "TypeScript",
             "last_commit": "2025-10-01T23:13:41Z",
             "owner": "resauce-dev",
@@ -195,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330154555,
             "language": "JavaScript",
             "last_commit": "2024-02-07T19:16:12Z",
             "owner": "dimitrov-adrian",
@@ -209,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 484658128,
             "language": "Vue",
             "last_commit": "2024-05-23T06:47:48Z",
             "owner": "u12206050",
@@ -223,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522476964,
             "language": "TypeScript",
             "last_commit": "2026-06-18T13:49:24Z",
             "owner": "utomic-media",
@@ -237,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417109227,
             "language": "Vue",
             "last_commit": "2024-07-22T13:57:37Z",
             "owner": "dimitrov-adrian",
@@ -251,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685698704,
             "language": "TypeScript",
             "last_commit": "2023-09-01T02:00:22Z",
             "owner": "programmarchy",
@@ -265,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489618229,
             "language": "Vue",
             "last_commit": "2023-07-26T10:47:14Z",
             "owner": "dimitrov-adrian",
@@ -279,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 636432058,
             "language": "Vue",
             "last_commit": "2026-03-30T17:19:26Z",
             "owner": "hanneskuettner",
@@ -293,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620377537,
             "language": "Vue",
             "last_commit": "2026-08-14T22:06:24Z",
             "owner": "gbicou",
@@ -307,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450900273,
             "language": "TypeScript",
             "last_commit": "2025-01-16T21:17:45Z",
             "owner": "AlexGaillard",
@@ -321,6 +344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414167533,
             "language": "Vue",
             "last_commit": "2022-05-08T09:12:52Z",
             "owner": "dimitrov-adrian",
@@ -335,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684160455,
             "language": "TypeScript",
             "last_commit": "2023-08-28T16:09:33Z",
             "owner": "Arood",
@@ -349,6 +374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685314698,
             "language": "JavaScript",
             "last_commit": "2023-09-02T19:13:14Z",
             "owner": "timio23",
@@ -363,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489427763,
             "language": "JavaScript",
             "last_commit": "2024-10-13T18:07:31Z",
             "owner": "ryntab",
@@ -377,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343384765,
             "language": "Vue",
             "last_commit": "2022-05-28T21:45:09Z",
             "owner": "gxvxc",
@@ -391,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636449700,
             "language": "TypeScript",
             "last_commit": "2024-08-09T18:03:13Z",
             "owner": "hanneskuettner",
@@ -405,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452588531,
             "language": "JavaScript",
             "last_commit": "2022-05-05T20:39:15Z",
             "owner": "dimitrov-adrian",
@@ -419,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477515235,
             "language": "Vue",
             "last_commit": "2024-02-26T12:17:03Z",
             "owner": "seymoe",
@@ -433,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318790147,
             "language": "Vue",
             "last_commit": "2022-07-21T16:15:38Z",
             "owner": "dimitrov-adrian",
@@ -447,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468377487,
             "language": "TypeScript",
             "last_commit": "2023-08-07T14:58:03Z",
             "owner": "pixielabs",
@@ -461,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511512707,
             "language": "TypeScript",
             "last_commit": "2022-07-10T11:17:13Z",
             "owner": "Intevel",
@@ -475,6 +509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443503374,
             "language": "Vue",
             "last_commit": "2022-01-06T04:42:18Z",
             "owner": "harish2704",
@@ -489,6 +524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625963121,
             "language": "TypeScript",
             "last_commit": "2026-08-14T21:05:16Z",
             "owner": "gbicou",
@@ -503,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426918240,
             "language": "CSS",
             "last_commit": "2021-12-09T14:54:40Z",
             "owner": "u12206050",
@@ -517,6 +554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 683383864,
             "language": "TypeScript",
             "last_commit": "2023-08-31T03:22:48Z",
             "owner": "karamokoisrael",
@@ -531,6 +569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708781958,
             "language": "Vue",
             "last_commit": "2024-09-17T13:49:32Z",
             "owner": "formfcw",
@@ -545,6 +584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707566985,
             "language": "TypeScript",
             "last_commit": "2024-09-17T13:22:32Z",
             "owner": "formfcw",
@@ -559,6 +599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707658058,
             "language": "TypeScript",
             "last_commit": "2024-03-08T08:39:41Z",
             "owner": "formfcw",
@@ -573,6 +614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418346411,
             "language": "Vue",
             "last_commit": "2021-10-18T04:45:59Z",
             "owner": "jesusgp22",
@@ -587,6 +629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707623125,
             "language": "TypeScript",
             "last_commit": "2024-09-17T13:33:52Z",
             "owner": "formfcw",
@@ -601,6 +644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479030050,
             "language": "Vue",
             "last_commit": "2024-02-25T12:14:50Z",
             "owner": "seymoe",
@@ -615,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534726058,
             "language": "TypeScript",
             "last_commit": "2022-09-18T15:59:01Z",
             "owner": "licitdev",
@@ -629,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 884914660,
             "language": "TypeScript",
             "last_commit": "2026-07-27T14:01:35Z",
             "owner": "utomic-media",
@@ -643,6 +689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 767966785,
             "language": "TypeScript",
             "last_commit": "2025-04-14T18:22:59Z",
             "owner": "egidiusmengelberg",
@@ -657,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637437678,
             "language": "TypeScript",
             "last_commit": "2023-05-08T10:46:16Z",
             "owner": "sguter90",
@@ -668,11 +716,6 @@
       "title": "Extensions"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
       "description": "If you're using Directus in an open source project, you're very welcome to link this project here.",
       "items": [
         {
@@ -682,11 +725,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606999037,
             "language": "Vue",
             "last_commit": "2026-03-06T00:04:00Z",
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -696,6 +740,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 417136561,
             "language": "CSS",
             "last_commit": "2024-01-18T13:23:49Z",
             "owner": "directus-labs",
@@ -710,6 +755,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 475698403,
             "language": "Vue",
             "last_commit": "2023-06-14T04:20:33Z",
             "owner": "bryantgillespie",
@@ -724,6 +770,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 670909430,
             "language": "TypeScript",
             "last_commit": "2024-04-14T12:35:03Z",
             "owner": "luochuanyuewu",
@@ -733,16 +780,12 @@
         }
       ],
       "title": "Examples / Showcases"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:56:25.562Z",
+    "last_updated": "2026-08-19T12:26:06.159Z",
     "original_repository": "directus-labs/awesome-directus",
+    "original_repository_id": 374681517,
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
     "enhanced_repository": "enhansome/enhansome-directus",
     "enhanced_repository_description": null,
