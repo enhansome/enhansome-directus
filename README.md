@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,472 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-19
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,472 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-19
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,458 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-20
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,458 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-20
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -53,7 +53,7 @@
 * [Generate Types](https://github.com/maltejur/directus-extension-generate-types) ⚠️ Archived - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 * [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) ⭐ 225 | 🐛 23 | 🌐 TypeScript | 📅 2024-07-04 - Perform computed value based on other fields.
 * [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) ⭐ 207 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-09 - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
-* [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 188 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Block editor (Editor.js) interface for Directus 9.
+* [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Block editor (Editor.js) interface for Directus 9.
 * [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 * [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 120 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
@@ -62,7 +62,7 @@
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 80 | 🐛 7 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
-* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 17 | 🌐 Vue | 📅 2026-08-14 - Tiptap rich text editor interface and display.
+* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 17 | 🌐 Vue | 📅 2026-08-20 - Tiptap rich text editor interface and display.
 * [Display Link](https://github.com/jacoborus/directus-extension-display-link) ⭐ 66 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-16 - Display URLs with an "open in new tab" button.
 * [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) ⭐ 63 | 🐛 1 | 🌐 Vue | 📅 2022-05-08 - Group interface fields into a modal that can be opened with a button.
 * [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-28 - Two operations to perform image description and OCR.
@@ -116,7 +116,7 @@
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
-* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 965 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 966 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 * [Official Examples](https://github.com/directus/examples) ⚠️ Archived - Integration examples with Directus.
 * [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) ⚠️ Archived - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 * [Nextus](https://github.com/luochuanyuewu/nextus) ⚠️ Archived - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
