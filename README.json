@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T19:55:12Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37450
+                "stars": 37462
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T19:55:12Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37450
+                "stars": 37462
               }
             }
           ],
@@ -783,7 +783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:56:30.424Z",
+    "last_updated": "2026-08-22T20:56:07.506Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_id": 374681517,
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
