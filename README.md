@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,462 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-21
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,462 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-21
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,487 | 🐛 387 | 🌐 TypeScript | 📅 2026-08-23
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,487 | 🐛 387 | 🌐 TypeScript | 📅 2026-08-23
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -53,7 +53,7 @@
 * [Generate Types](https://github.com/maltejur/directus-extension-generate-types) ⚠️ Archived - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 * [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) ⭐ 225 | 🐛 23 | 🌐 TypeScript | 📅 2024-07-04 - Perform computed value based on other fields.
 * [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) ⭐ 207 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-09 - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
-* [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 187 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Block editor (Editor.js) interface for Directus 9.
+* [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Block editor (Editor.js) interface for Directus 9.
 * [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 * [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 120 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
