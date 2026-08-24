@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:11:02Z",
+                "last_commit": "2026-08-24T11:17:22Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37487
+                "stars": 37493
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:11:02Z",
+                "last_commit": "2026-08-24T11:17:22Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37487
+                "stars": 37493
               }
             }
           ],
@@ -70,7 +70,7 @@
             "archived": false,
             "id": 364084896,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:42:22Z",
+            "last_commit": "2026-08-23T22:33:34Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
@@ -711,6 +711,50 @@
             "repo": "directus-extension-woodpecker-build-status",
             "stars": 2
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Directus Hook Library",
+              "description": "A collection of customizable hooks for Directus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710793601,
+                "language": "TypeScript",
+                "last_commit": "2024-03-05T10:44:56Z",
+                "owner": "formfcw",
+                "repo": "directus-hook-library",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extension Scripts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Directus Sync",
+              "description": "A CLI tool for synchronizing the schema and configuration of Directus across various environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708936984,
+                "language": "TypeScript",
+                "last_commit": "2026-04-13T22:05:12Z",
+                "owner": "tractr",
+                "repo": "directus-sync",
+                "stars": 458
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
       "title": "Extensions"
@@ -783,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:55:29.839Z",
+    "last_updated": "2026-08-24T14:22:42.172Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_id": 374681517,
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
