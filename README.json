@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:48:44Z",
+                "last_commit": "2026-08-25T20:26:10Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37503
+                "stars": 37459
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:48:44Z",
+                "last_commit": "2026-08-25T20:26:10Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37503
+                "stars": 37459
               }
             }
           ],
@@ -58,7 +58,7 @@
             "last_commit": "2025-02-07T13:02:02Z",
             "owner": "Intevel",
             "repo": "nuxt-directus",
-            "stars": 317
+            "stars": 310
           }
         },
         {
@@ -70,7 +70,7 @@
             "archived": false,
             "id": 364084896,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:33:34Z",
+            "last_commit": "2026-08-25T17:38:21Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
@@ -100,7 +100,7 @@
             "archived": false,
             "id": 523243044,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:25:59Z",
+            "last_commit": "2026-08-25T20:51:34Z",
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 35
@@ -526,7 +526,7 @@
             "archived": false,
             "id": 625963121,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:06:18Z",
+            "last_commit": "2026-08-25T17:45:53Z",
             "owner": "gbicou",
             "repo": "directus-extension-imagga",
             "stars": 16
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:07.699Z",
+    "last_updated": "2026-08-25T20:59:51.993Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_id": 374681517,
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
