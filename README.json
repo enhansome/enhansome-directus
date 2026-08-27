@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T21:07:14Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37602
+                "stars": 37599
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-26T21:07:14Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37602
+                "stars": 37599
               }
             }
           ],
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 620377537,
             "language": "Vue",
-            "last_commit": "2026-08-26T15:46:46Z",
+            "last_commit": "2026-08-27T11:13:05Z",
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
             "stars": 71
@@ -827,9 +827,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:03:24.293Z",
-    "original_repository": "directus-labs/awesome-directus",
-    "original_repository_id": 374681517,
+    "last_updated": "2026-08-27T11:36:07.512Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 374681517,
+      "language": null,
+      "last_commit": "2024-11-11T12:17:17Z",
+      "owner": "directus-labs",
+      "repo": "awesome-directus",
+      "stars": 640
+    },
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
     "enhanced_repository": "enhansome/enhansome-directus",
     "enhanced_repository_description": null,
