@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:26:10Z",
+                "last_commit": "2026-08-26T21:07:14Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37459
+                "stars": 37602
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:26:10Z",
+                "last_commit": "2026-08-26T21:07:14Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37459
+                "stars": 37602
               }
             }
           ],
@@ -70,7 +70,7 @@
             "archived": false,
             "id": 364084896,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:38:21Z",
+            "last_commit": "2026-08-26T20:12:26Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
@@ -100,7 +100,7 @@
             "archived": false,
             "id": 523243044,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:51:34Z",
+            "last_commit": "2026-08-26T13:19:37Z",
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 35
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 620377537,
             "language": "Vue",
-            "last_commit": "2026-08-21T02:08:51Z",
+            "last_commit": "2026-08-26T15:46:46Z",
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
             "stars": 71
@@ -526,7 +526,7 @@
             "archived": false,
             "id": 625963121,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:45:53Z",
+            "last_commit": "2026-08-26T21:44:51Z",
             "owner": "gbicou",
             "repo": "directus-extension-imagga",
             "stars": 16
@@ -774,7 +774,7 @@
             "last_commit": "2026-03-06T00:04:00Z",
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 969
+            "stars": 968
           }
         },
         {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:59:51.993Z",
+    "last_updated": "2026-08-27T00:03:24.293Z",
     "original_repository": "directus-labs/awesome-directus",
     "original_repository_id": 374681517,
     "original_repository_sha": "2052f4750c6940708ad518d1d2e4f31c64c0b7a7",
