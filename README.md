@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,599 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-26
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,599 | 🐛 389 | 🌐 TypeScript | 📅 2026-08-26
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,629 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-27
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,629 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-27
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -39,7 +39,7 @@
 ## Integration
 
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 310 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
-* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 - A set of React components and utilities for Directus Headless CMS.
+* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-27 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 - PHP SDK to provide easy access to the Directus API.
 * [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 35 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
@@ -76,7 +76,7 @@
 * [BlurHash](https://github.com/pixielabs/directus-extension-blurhash/) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2023-08-07 - A Directus extension that generates blurhashes for uploaded images.
 * [Directus LogSnag](https://github.com/Intevel/directus-logsnag) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2022-07-10 - Sending your events from Directus directly to your phone using LogSnag.
 * [SQL Panel](https://github.com/harish2704/directus-sql-panel) ⭐ 18 | 🐛 2 | 🌐 Vue | 📅 2022-01-06 - Panel component which shows result of stored SQL query as a table.
-* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-27 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
 * [Date Picker Interface](https://github.com/u12206050/directus-9-date-picker-interface) ⭐ 15 | 🐛 1 | 🌐 CSS | 📅 2021-12-09 - An alternative Date Picker Interface to the original Directus DateTime interface.
 * [Machine Learning Operations](https://github.com/karamokoisrael/directus-hackathon-submission/) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31 - A set of extensions to train, test and use machine learning models.
 * [Tab Group](https://github.com/formfcw/directus-extension-tab-group) ⭐ 14 | 🐛 0 | 🌐 Vue | 📅 2024-09-17 - A group interface with a tab menu for toggling the visibility of fields within the group.
@@ -116,7 +116,7 @@
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
-* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 968 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 969 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 * [Official Examples](https://github.com/directus/examples) ⚠️ Archived - Integration examples with Directus.
 * [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) ⚠️ Archived - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 * [Nextus](https://github.com/luochuanyuewu/nextus) ⚠️ Archived - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

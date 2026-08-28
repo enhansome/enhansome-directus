@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:07:14Z",
+                "last_commit": "2026-08-27T21:16:52Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37599
-              }
+                "stars": 37629
+              },
+              "first_seen": "2026-08-28T04:27:52.995Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:07:14Z",
+                "last_commit": "2026-08-27T21:16:52Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37599
-              }
+                "stars": 37629
+              },
+              "first_seen": "2026-08-28T04:27:52.995Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "Intevel",
             "repo": "nuxt-directus",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -70,11 +73,12 @@
             "archived": false,
             "id": 364084896,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:12:26Z",
+            "last_commit": "2026-08-27T20:44:40Z",
             "owner": "gremo",
             "repo": "react-directus",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "alantiller",
             "repo": "directus-php-sdk",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "jacoborus",
             "repo": "directus-lite-sdk",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         }
       ],
       "title": "Integration"
@@ -140,7 +147,8 @@
             "owner": "maltejur",
             "repo": "directus-extension-generate-types",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -155,7 +163,8 @@
             "owner": "rezo-labs",
             "repo": "directus-extension-computed-interface",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "formfcw",
             "repo": "directus-extension-flexible-editor",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-editorjs-interface",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "resauce-dev",
             "repo": "directus-image-scout",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-searchsync",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "u12206050",
             "repo": "directus-extension-api-viewer-module",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "utomic-media",
             "repo": "directus-extension-field-actions",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-wpslug-interface",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "programmarchy",
             "repo": "directus-extension-copilot",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -290,7 +307,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-tags-m2m-interface",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -305,7 +323,8 @@
             "owner": "hanneskuettner",
             "repo": "directus-extension-group-tabs-interface",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -320,7 +339,8 @@
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -335,7 +355,8 @@
             "owner": "AlexGaillard",
             "repo": "directus-extension-display-link",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -350,7 +371,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-group-modal-interface",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -365,7 +387,8 @@
             "owner": "Arood",
             "repo": "directus-extension-media-ai-bundle",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -380,7 +403,8 @@
             "owner": "timio23",
             "repo": "directus-operation-auto-translate",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -395,7 +419,8 @@
             "owner": "ryntab",
             "repo": "Directus-Mailer",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -410,7 +435,8 @@
             "owner": "gxvxc",
             "repo": "directus-dictionary",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -425,7 +451,8 @@
             "owner": "hanneskuettner",
             "repo": "directus-extension-inline-form-interface",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -440,7 +467,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-svgmap-picker-interface",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -455,7 +483,8 @@
             "owner": "seymoe",
             "repo": "directus-extension-vgrid-interface",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -470,7 +499,8 @@
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-linkmeta",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -485,7 +515,8 @@
             "owner": "pixielabs",
             "repo": "directus-extension-blurhash",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -500,7 +531,8 @@
             "owner": "Intevel",
             "repo": "directus-logsnag",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -515,7 +547,8 @@
             "owner": "harish2704",
             "repo": "directus-sql-panel",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -526,11 +559,12 @@
             "archived": false,
             "id": 625963121,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:44:51Z",
+            "last_commit": "2026-08-27T21:29:15Z",
             "owner": "gbicou",
             "repo": "directus-extension-imagga",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -545,7 +579,8 @@
             "owner": "u12206050",
             "repo": "directus-9-date-picker-interface",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -560,7 +595,8 @@
             "owner": "karamokoisrael",
             "repo": "directus-hackathon-submission",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -575,7 +611,8 @@
             "owner": "formfcw",
             "repo": "directus-extension-tab-group",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -590,7 +627,8 @@
             "owner": "formfcw",
             "repo": "directus-extension-classified-group",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -605,7 +643,8 @@
             "owner": "formfcw",
             "repo": "directus-extension-tokenized-preview",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -620,7 +659,8 @@
             "owner": "jesusgp22",
             "repo": "directus-draw-interface",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -635,7 +675,8 @@
             "owner": "formfcw",
             "repo": "directus-extension-drawer-notice",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -650,7 +691,8 @@
             "owner": "seymoe",
             "repo": "directus-extension-sparkline-display",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -665,7 +707,8 @@
             "owner": "licitdev",
             "repo": "directus-extension-sanitize-html",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -680,7 +723,8 @@
             "owner": "utomic-media",
             "repo": "directus-extension-auto-generate-file-transformations",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -695,7 +739,8 @@
             "owner": "egidiusmengelberg",
             "repo": "directus-extension-umami",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -710,7 +755,8 @@
             "owner": "sguter90",
             "repo": "directus-extension-woodpecker-build-status",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "children": [
@@ -727,7 +773,8 @@
                 "owner": "formfcw",
                 "repo": "directus-hook-library",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:27:52.995Z"
             }
           ],
           "description": null,
@@ -749,7 +796,8 @@
                 "owner": "tractr",
                 "repo": "directus-sync",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T04:27:52.995Z"
             }
           ],
           "description": null,
@@ -774,8 +822,9 @@
             "last_commit": "2026-03-06T00:04:00Z",
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 968
-          }
+            "stars": 969
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -790,7 +839,8 @@
             "owner": "directus-labs",
             "repo": "examples",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -805,7 +855,8 @@
             "owner": "bryantgillespie",
             "repo": "nuxt3-directus-starter",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         },
         {
           "node_type": "item",
@@ -820,14 +871,15 @@
             "owner": "luochuanyuewu",
             "repo": "nextus",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T04:27:52.995Z"
         }
       ],
       "title": "Examples / Showcases"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:07.512Z",
+    "last_updated": "2026-08-28T04:27:52.995Z",
     "original_repository_info": {
       "archived": false,
       "id": 374681517,
