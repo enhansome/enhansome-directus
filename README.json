@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:16:52Z",
+                "last_commit": "2026-08-28T21:02:34Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37629
+                "stars": 37674
               },
               "first_seen": "2026-08-28T04:27:52.995Z"
             },
@@ -30,10 +30,10 @@
                 "archived": false,
                 "id": 7122594,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:16:52Z",
+                "last_commit": "2026-08-28T21:02:34Z",
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37629
+                "stars": 37674
               },
               "first_seen": "2026-08-28T04:27:52.995Z"
             }
@@ -822,7 +822,7 @@
             "last_commit": "2026-03-06T00:04:00Z",
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 969
+            "stars": 970
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
         },
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:27:52.995Z",
+    "last_updated": "2026-08-29T02:54:27.973Z",
     "original_repository_info": {
       "archived": false,
       "id": 374681517,
