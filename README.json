@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T19:28:27Z",
-                "open_issues": 389,
+                "last_commit": "2026-09-01T21:07:14Z",
+                "open_issues": 392,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37664,
+                "stars": 37665,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T19:28:27Z",
-                "open_issues": 389,
+                "last_commit": "2026-09-01T21:07:14Z",
+                "open_issues": 392,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37664,
+                "stars": 37665,
                 "topics": [
                   "api",
                   "app",
@@ -190,8 +190,8 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-26T13:19:37Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-01T20:08:25Z",
+            "open_issues": 12,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
             "stars": 36,
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "maltejur",
             "repo": "directus-extension-generate-types",
-            "stars": 246,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -276,7 +276,7 @@
             "open_issues": 23,
             "owner": "rezo-labs",
             "repo": "directus-extension-computed-interface",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "directus",
               "directus-extension",
@@ -301,7 +301,7 @@
             "open_issues": 6,
             "owner": "formfcw",
             "repo": "directus-extension-flexible-editor",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "block-editor",
               "directus",
@@ -343,7 +343,7 @@
             "open_issues": 12,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-editorjs-interface",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "block-editor",
               "directus",
@@ -407,7 +407,7 @@
             "open_issues": 14,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-searchsync",
-            "stars": 120,
+            "stars": 119,
             "topics": [
               "algolia",
               "directus",
@@ -434,7 +434,7 @@
             "open_issues": 6,
             "owner": "u12206050",
             "repo": "directus-extension-api-viewer-module",
-            "stars": 117,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -455,7 +455,7 @@
             "open_issues": 2,
             "owner": "utomic-media",
             "repo": "directus-extension-field-actions",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "directus",
               "directus-actions",
@@ -483,7 +483,7 @@
             "open_issues": 12,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-wpslug-interface",
-            "stars": 100,
+            "stars": 99,
             "topics": [
               "directus",
               "directus-custom-interface",
@@ -534,7 +534,7 @@
             "open_issues": 7,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-tags-m2m-interface",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "directus",
               "directus-extension",
@@ -561,7 +561,7 @@
             "open_issues": 7,
             "owner": "hanneskuettner",
             "repo": "directus-extension-group-tabs-interface",
-            "stars": 73,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -612,7 +612,7 @@
             "open_issues": 5,
             "owner": "AlexGaillard",
             "repo": "directus-extension-display-link",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "directus",
               "directus-extension",
@@ -641,7 +641,7 @@
             "open_issues": 1,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-group-modal-interface",
-            "stars": 63,
+            "stars": 62,
             "topics": [
               "directus",
               "directus-custom-interface",
@@ -716,7 +716,7 @@
             "open_issues": 0,
             "owner": "ryntab",
             "repo": "Directus-Mailer",
-            "stars": 46,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -762,7 +762,7 @@
             "open_issues": 2,
             "owner": "hanneskuettner",
             "repo": "directus-extension-inline-form-interface",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -811,7 +811,7 @@
             "open_issues": 2,
             "owner": "seymoe",
             "repo": "directus-extension-vgrid-interface",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:52.995Z"
@@ -832,7 +832,7 @@
             "open_issues": 2,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-linkmeta",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "directus",
               "directus-extension",
@@ -1008,7 +1008,7 @@
             "open_issues": 0,
             "owner": "formfcw",
             "repo": "directus-extension-tab-group",
-            "stars": 14,
+            "stars": 13,
             "topics": [
               "directus",
               "directus-extension",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:03:45.537Z",
+    "last_updated": "2026-09-01T22:48:24.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
