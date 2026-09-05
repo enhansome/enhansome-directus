@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 403,
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37742,
+                "stars": 37767,
                 "topics": [
                   "api",
                   "app",
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 403,
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37742,
+                "stars": 37767,
                 "topics": [
                   "api",
                   "app",
@@ -190,7 +190,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-04T14:22:00Z",
+            "last_commit": "2026-09-05T02:29:06Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -578,7 +578,7 @@
             "id": 620377537,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-04T11:05:55Z",
+            "last_commit": "2026-09-05T20:42:51Z",
             "open_issues": 19,
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:30:50.406Z",
+    "last_updated": "2026-09-05T22:14:54.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
