@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 406,
+                "open_issues": 407,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37767,
+                "stars": 37782,
                 "topics": [
                   "api",
                   "app",
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 406,
+                "open_issues": 407,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37767,
+                "stars": 37782,
                 "topics": [
                   "api",
                   "app",
@@ -301,7 +301,7 @@
             "open_issues": 6,
             "owner": "formfcw",
             "repo": "directus-extension-flexible-editor",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "block-editor",
               "directus",
@@ -578,7 +578,7 @@
             "id": 620377537,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:42:51Z",
+            "last_commit": "2026-09-06T18:04:19Z",
             "open_issues": 19,
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:14:54.993Z",
+    "last_updated": "2026-09-06T22:18:33.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
