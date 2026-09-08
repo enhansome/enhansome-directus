@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,805 | 🐛 407 | 🌐 TypeScript | 📅 2026-09-04
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,805 | 🐛 407 | 🌐 TypeScript | 📅 2026-09-04
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,814 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-08
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,814 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-08
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -57,7 +57,7 @@
 * [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 * [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 119 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
-* [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 106 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-18 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+* [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 107 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-18 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 * [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 99 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 7 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

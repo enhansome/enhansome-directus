@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 407,
+                "last_commit": "2026-09-08T21:34:31Z",
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37805,
+                "stars": 37814,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:59:05Z",
-                "open_issues": 407,
+                "last_commit": "2026-09-08T21:34:31Z",
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37805,
+                "stars": 37814,
                 "topics": [
                   "api",
                   "app",
@@ -455,7 +455,7 @@
             "open_issues": 2,
             "owner": "utomic-media",
             "repo": "directus-extension-field-actions",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "directus",
               "directus-actions",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:58:47.705Z",
+    "last_updated": "2026-09-08T22:57:09.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
