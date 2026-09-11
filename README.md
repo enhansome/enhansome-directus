@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,856 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-10
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,856 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-10
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,870 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-11
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,870 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-11
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -41,7 +41,7 @@
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 310 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
 * [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-09 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 - PHP SDK to provide easy access to the Directus API.
-* [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-10 - Template repository integrating Directus & Remix into a full-stack monorepo.
+* [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-11 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 * [Official JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
 * [Official Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
@@ -57,12 +57,12 @@
 * [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 * [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 119 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
-* [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 107 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-18 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+* [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 107 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-10 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 * [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 99 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 7 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
-* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 19 | 🌐 Vue | 📅 2026-09-06 - Tiptap rich text editor interface and display.
+* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 20 | 🌐 Vue | 📅 2026-09-11 - Tiptap rich text editor interface and display.
 * [Display Link](https://github.com/jacoborus/directus-extension-display-link) ⭐ 65 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-16 - Display URLs with an "open in new tab" button.
 * [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) ⭐ 62 | 🐛 1 | 🌐 Vue | 📅 2022-05-08 - Group interface fields into a modal that can be opened with a button.
 * [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-28 - Two operations to perform image description and OCR.
@@ -76,7 +76,7 @@
 * [BlurHash](https://github.com/pixielabs/directus-extension-blurhash/) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2023-08-07 - A Directus extension that generates blurhashes for uploaded images.
 * [Directus LogSnag](https://github.com/Intevel/directus-logsnag) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2022-07-10 - Sending your events from Directus directly to your phone using LogSnag.
 * [SQL Panel](https://github.com/harish2704/directus-sql-panel) ⭐ 18 | 🐛 2 | 🌐 Vue | 📅 2022-01-06 - Panel component which shows result of stored SQL query as a table.
-* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-10 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-11 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
 * [Date Picker Interface](https://github.com/u12206050/directus-9-date-picker-interface) ⭐ 15 | 🐛 1 | 🌐 CSS | 📅 2021-12-09 - An alternative Date Picker Interface to the original Directus DateTime interface.
 * [Machine Learning Operations](https://github.com/karamokoisrael/directus-hackathon-submission/) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31 - A set of extensions to train, test and use machine learning models.
 * [Tab Group](https://github.com/formfcw/directus-extension-tab-group) ⭐ 13 | 🐛 0 | 🌐 Vue | 📅 2024-09-17 - A group interface with a tab menu for toggling the visibility of fields within the group.
@@ -86,7 +86,7 @@
 * [Drawer Notice](https://github.com/formfcw/directus-extension-drawer-notice) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-17 - A notice field that is only visible in the drawer.
 * [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) ⭐ 9 | 🐛 0 | 🌐 Vue | 📅 2024-02-25 - A sparkline display with `apexcharts` for Directus 9.
 * [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-18 - Sanitize HTML inputs to Directus.
-* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-27 - Automatically generate selected file transformations on upload
+* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-11 - Automatically generate selected file transformations on upload
 * [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) ⭐ 5 | 🐛 5 | 🌐 TypeScript | 📅 2025-04-14 - Add Umami analytics to Directus.
 * [Woodpecker Build Status](https://github.com/sguter90/directus-extension-woodpecker-build-status) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-08 - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
 * [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
