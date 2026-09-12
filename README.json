@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T20:59:46Z",
+                "last_commit": "2026-09-12T21:59:29Z",
                 "open_issues": 401,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37870,
+                "stars": 37877,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T20:59:46Z",
+                "last_commit": "2026-09-12T21:59:29Z",
                 "open_issues": 401,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37870,
+                "stars": 37877,
                 "topics": [
                   "api",
                   "app",
@@ -578,7 +578,7 @@
             "id": 620377537,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-11T03:40:29Z",
+            "last_commit": "2026-09-12T10:43:39Z",
             "open_issues": 20,
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
@@ -930,7 +930,7 @@
             "id": 625963121,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T02:54:42Z",
+            "last_commit": "2026-09-12T22:31:18Z",
             "open_issues": 16,
             "owner": "gbicou",
             "repo": "directus-extension-imagga",
@@ -1320,7 +1320,7 @@
             "open_issues": 23,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 972,
+            "stars": 973,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:46:14.692Z",
+    "last_updated": "2026-09-12T22:31:25.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
