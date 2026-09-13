@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,877 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-12
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,877 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-12
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,892 | 🐛 405 | 🌐 TypeScript | 📅 2026-09-12
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,892 | 🐛 405 | 🌐 TypeScript | 📅 2026-09-12
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -76,7 +76,7 @@
 * [BlurHash](https://github.com/pixielabs/directus-extension-blurhash/) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2023-08-07 - A Directus extension that generates blurhashes for uploaded images.
 * [Directus LogSnag](https://github.com/Intevel/directus-logsnag) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2022-07-10 - Sending your events from Directus directly to your phone using LogSnag.
 * [SQL Panel](https://github.com/harish2704/directus-sql-panel) ⭐ 18 | 🐛 2 | 🌐 Vue | 📅 2022-01-06 - Panel component which shows result of stored SQL query as a table.
-* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-12 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+* [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) ⭐ 16 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-13 - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
 * [Date Picker Interface](https://github.com/u12206050/directus-9-date-picker-interface) ⭐ 15 | 🐛 1 | 🌐 CSS | 📅 2021-12-09 - An alternative Date Picker Interface to the original Directus DateTime interface.
 * [Machine Learning Operations](https://github.com/karamokoisrael/directus-hackathon-submission/) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31 - A set of extensions to train, test and use machine learning models.
 * [Tab Group](https://github.com/formfcw/directus-extension-tab-group) ⭐ 13 | 🐛 0 | 🌐 Vue | 📅 2024-09-17 - A group interface with a tab menu for toggling the visibility of fields within the group.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
