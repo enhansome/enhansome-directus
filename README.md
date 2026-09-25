@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,960 | 🐛 408 | 🌐 TypeScript | 📅 2026-09-24
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,960 | 🐛 408 | 🌐 TypeScript | 📅 2026-09-24
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 37,969 | 🐛 410 | 🌐 TypeScript | 📅 2026-09-25
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 37,969 | 🐛 410 | 🌐 TypeScript | 📅 2026-09-25
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -39,7 +39,7 @@
 ## Integration
 
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 310 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
-* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-24 - A set of React components and utilities for Directus Headless CMS.
+* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-25 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 - PHP SDK to provide easy access to the Directus API.
 * [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-24 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
@@ -62,7 +62,7 @@
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 7 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
-* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 20 | 🌐 Vue | 📅 2026-09-24 - Tiptap rich text editor interface and display.
+* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 20 | 🌐 Vue | 📅 2026-09-25 - Tiptap rich text editor interface and display.
 * [Display Link](https://github.com/jacoborus/directus-extension-display-link) ⭐ 65 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-16 - Display URLs with an "open in new tab" button.
 * [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) ⭐ 62 | 🐛 1 | 🌐 Vue | 📅 2022-05-08 - Group interface fields into a modal that can be opened with a button.
 * [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-28 - Two operations to perform image description and OCR.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
