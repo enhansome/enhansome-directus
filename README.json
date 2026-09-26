@@ -21,7 +21,7 @@
                 "open_issues": 410,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37969,
+                "stars": 37974,
                 "topics": [
                   "api",
                   "app",
@@ -63,7 +63,7 @@
                 "open_issues": 410,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37969,
+                "stars": 37974,
                 "topics": [
                   "api",
                   "app",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:30:23.229Z",
+    "last_updated": "2026-09-26T23:08:03.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
