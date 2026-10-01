@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T20:06:33Z",
-                "open_issues": 412,
+                "last_commit": "2026-09-30T22:31:56Z",
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37996,
+                "stars": 38000,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T20:06:33Z",
-                "open_issues": 412,
+                "last_commit": "2026-09-30T22:31:56Z",
+                "open_issues": 406,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 37996,
+                "stars": 38000,
                 "topics": [
                   "api",
                   "app",
@@ -190,7 +190,7 @@
             "id": 523243044,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-28T23:10:28Z",
+            "last_commit": "2026-09-30T00:36:32Z",
             "open_issues": 14,
             "owner": "tdsoftpl",
             "repo": "cool-stack",
@@ -1320,7 +1320,7 @@
             "open_issues": 23,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:56:49.858Z",
+    "last_updated": "2026-10-01T00:09:30.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
