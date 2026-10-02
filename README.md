@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,007 | 🐛 405 | 🌐 TypeScript | 📅 2026-10-01
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,007 | 🐛 405 | 🌐 TypeScript | 📅 2026-10-01
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,006 | 🐛 400 | 🌐 TypeScript | 📅 2026-10-02
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,006 | 🐛 400 | 🌐 TypeScript | 📅 2026-10-02
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -39,7 +39,7 @@
 ## Integration
 
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 310 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
-* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-01 - A set of React components and utilities for Directus Headless CMS.
+* [react-directus](https://github.com/gremo/react-directus) ⭐ 135 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-02 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 - PHP SDK to provide easy access to the Directus API.
 * [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-01 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
