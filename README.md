@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,362 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-09
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,362 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-09
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,386 | 🐛 355 | 🌐 TypeScript | 📅 2026-10-09
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,386 | 🐛 355 | 🌐 TypeScript | 📅 2026-10-09
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -62,7 +62,7 @@
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 7 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
-* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 20 | 🌐 Vue | 📅 2026-10-05 - Tiptap rich text editor interface and display.
+* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 20 | 🌐 Vue | 📅 2026-10-10 - Tiptap rich text editor interface and display.
 * [Display Link](https://github.com/jacoborus/directus-extension-display-link) ⭐ 65 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-16 - Display URLs with an "open in new tab" button.
 * [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) ⭐ 62 | 🐛 1 | 🌐 Vue | 📅 2022-05-08 - Group interface fields into a modal that can be opened with a button.
 * [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-28 - Two operations to perform image description and OCR.
@@ -86,7 +86,7 @@
 * [Drawer Notice](https://github.com/formfcw/directus-extension-drawer-notice) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-17 - A notice field that is only visible in the drawer.
 * [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) ⭐ 9 | 🐛 0 | 🌐 Vue | 📅 2024-02-25 - A sparkline display with `apexcharts` for Directus 9.
 * [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-18 - Sanitize HTML inputs to Directus.
-* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-17 - Automatically generate selected file transformations on upload
+* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-10 - Automatically generate selected file transformations on upload
 * [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) ⭐ 5 | 🐛 5 | 🌐 TypeScript | 📅 2025-04-14 - Add Umami analytics to Directus.
 * [Woodpecker Build Status](https://github.com/sguter90/directus-extension-woodpecker-build-status) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-08 - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
 * [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
@@ -116,7 +116,7 @@
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
-* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 982 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 983 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 * [Official Examples](https://github.com/directus/examples) ⚠️ Archived - Integration examples with Directus.
 * [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) ⚠️ Archived - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 * [Nextus](https://github.com/luochuanyuewu/nextus) ⚠️ Archived - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
