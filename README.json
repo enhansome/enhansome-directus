@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T21:45:12Z",
-                "open_issues": 355,
+                "last_commit": "2026-10-11T21:59:02Z",
+                "open_issues": 356,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38386,
+                "stars": 38412,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T21:45:12Z",
-                "open_issues": 355,
+                "last_commit": "2026-10-11T21:59:02Z",
+                "open_issues": 356,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38386,
+                "stars": 38412,
                 "topics": [
                   "api",
                   "app",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:48:06.397Z",
+    "last_updated": "2026-10-11T23:57:22.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
