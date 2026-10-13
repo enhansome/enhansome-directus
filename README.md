@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,412 | 🐛 356 | 🌐 TypeScript | 📅 2026-10-11
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,412 | 🐛 356 | 🌐 TypeScript | 📅 2026-10-11
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,438 | 🐛 359 | 🌐 TypeScript | 📅 2026-10-11
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,438 | 🐛 359 | 🌐 TypeScript | 📅 2026-10-11
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -39,7 +39,7 @@
 ## Integration
 
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 310 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
-* [react-directus](https://github.com/gremo/react-directus) ⭐ 134 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-08 - A set of React components and utilities for Directus Headless CMS.
+* [react-directus](https://github.com/gremo/react-directus) ⭐ 134 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-13 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-10-21 - PHP SDK to provide easy access to the Directus API.
 * [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-08 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
@@ -85,8 +85,8 @@
 * [Draw Interface](https://github.com/jesusgp22/directus-draw-interface) ⭐ 11 | 🐛 1 | 🌐 Vue | 📅 2021-10-18 - Free draw interface for Directus app.
 * [Drawer Notice](https://github.com/formfcw/directus-extension-drawer-notice) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-17 - A notice field that is only visible in the drawer.
 * [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) ⭐ 9 | 🐛 0 | 🌐 Vue | 📅 2024-02-25 - A sparkline display with `apexcharts` for Directus 9.
-* [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-18 - Sanitize HTML inputs to Directus.
-* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-10 - Automatically generate selected file transformations on upload
+* [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-18 - Sanitize HTML inputs to Directus.
+* [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-12 - Automatically generate selected file transformations on upload
 * [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) ⭐ 5 | 🐛 5 | 🌐 TypeScript | 📅 2025-04-14 - Add Umami analytics to Directus.
 * [Woodpecker Build Status](https://github.com/sguter90/directus-extension-woodpecker-build-status) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-08 - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
 * [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
