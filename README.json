@@ -21,7 +21,7 @@
                 "open_issues": 351,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38624,
+                "stars": 38630,
                 "topics": [
                   "api",
                   "app",
@@ -63,7 +63,7 @@
                 "open_issues": 351,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38624,
+                "stars": 38630,
                 "topics": [
                   "api",
                   "app",
@@ -578,7 +578,7 @@
             "id": 620377537,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-22T22:54:37Z",
+            "last_commit": "2026-10-24T02:44:45Z",
             "open_issues": 20,
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
@@ -1320,7 +1320,7 @@
             "open_issues": 23,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:27:56.721Z",
+    "last_updated": "2026-10-24T22:42:33.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
