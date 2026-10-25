@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,630 | 🐛 351 | 🌐 TypeScript | 📅 2026-10-23
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,630 | 🐛 351 | 🌐 TypeScript | 📅 2026-10-23
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,631 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-23
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,631 | 🐛 354 | 🌐 TypeScript | 📅 2026-10-23
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -58,7 +58,7 @@
 * [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 119 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
 * [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 107 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-19 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
-* [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 99 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
+* [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 98 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
 * [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 6 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
@@ -116,7 +116,7 @@
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
-* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 985 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 986 | 🐛 23 | 🌐 Vue | 📅 2026-03-06 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 * [Official Examples](https://github.com/directus/examples) ⚠️ Archived - Integration examples with Directus.
 * [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) ⚠️ Archived - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 * [Nextus](https://github.com/luochuanyuewu/nextus) ⚠️ Archived - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

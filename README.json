@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T22:30:19Z",
-                "open_issues": 351,
+                "open_issues": 354,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38630,
+                "stars": 38631,
                 "topics": [
                   "api",
                   "app",
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T22:30:19Z",
-                "open_issues": 351,
+                "open_issues": 354,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38630,
+                "stars": 38631,
                 "topics": [
                   "api",
                   "app",
@@ -483,7 +483,7 @@
             "open_issues": 12,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-wpslug-interface",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "directus",
               "directus-custom-interface",
@@ -1320,7 +1320,7 @@
             "open_issues": 23,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:42:33.288Z",
+    "last_updated": "2026-10-25T22:47:07.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
