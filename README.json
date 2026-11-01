@@ -21,7 +21,7 @@
                 "open_issues": 361,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38765,
+                "stars": 38777,
                 "topics": [
                   "api",
                   "app",
@@ -63,7 +63,7 @@
                 "open_issues": 361,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38765,
+                "stars": 38777,
                 "topics": [
                   "api",
                   "app",
@@ -1320,7 +1320,7 @@
             "open_issues": 23,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 988,
+            "stars": 989,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:41:14.760Z",
+    "last_updated": "2026-11-01T23:51:56.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
