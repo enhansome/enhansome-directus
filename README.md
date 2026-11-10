@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,662 | 🐛 380 | 🌐 TypeScript | 📅 2026-11-07
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,662 | 🐛 380 | 🌐 TypeScript | 📅 2026-11-07
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,673 | 🐛 380 | 🌐 TypeScript | 📅 2026-11-09
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,673 | 🐛 380 | 🌐 TypeScript | 📅 2026-11-09
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -39,7 +39,7 @@
 ## Integration
 
 * [Nuxt Directus](https://github.com/directus-community/nuxt-directus) ⭐ 309 | 🐛 15 | 🌐 TypeScript | 📅 2025-02-07 - First-Class Nuxt 3 Module for connecting with an Directus instance.
-* [react-directus](https://github.com/gremo/react-directus) ⭐ 134 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-05 - A set of React components and utilities for Directus Headless CMS.
+* [react-directus](https://github.com/gremo/react-directus) ⭐ 134 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-09 - A set of React components and utilities for Directus Headless CMS.
 * [PHP SDK](https://github.com/alantiller/directus-php-sdk) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2026-10-13 - PHP SDK to provide easy access to the Directus API.
 * [cool-stack](https://github.com/tdsoftpl/cool-stack) ⭐ 36 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-07 - Template repository integrating Directus & Remix into a full-stack monorepo.
 * [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-01 - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
@@ -52,17 +52,17 @@
 
 * [Generate Types](https://github.com/maltejur/directus-extension-generate-types) ⚠️ Archived - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 * [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) ⭐ 225 | 🐛 23 | 🌐 TypeScript | 📅 2024-07-04 - Perform computed value based on other fields.
-* [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) ⭐ 207 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-09 - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
+* [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) ⭐ 206 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-09 - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
 * [Editor.js Interface](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) ⭐ 186 | 🐛 12 | 🌐 CSS | 📅 2023-04-17 - Block editor (Editor.js) interface for Directus 9.
-* [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
-* [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 119 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+* [Image Scout](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) ⭐ 139 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-01 - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+* [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) ⭐ 118 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-07 - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 * [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) ⚠️ Archived - View and run API queries directly from a Module.
 * [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) ⭐ 107 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-19 - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
-* [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 98 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
+* [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) ⭐ 97 | 🐛 12 | 🌐 Vue | 📅 2024-07-22 - Slug/Permalink interface with support for pre- and suffixes.
 * [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-01 - A bundle including a panel to ask data-aware questions in a chat interface.
-* [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 79 | 🐛 6 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
+* [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) ⭐ 78 | 🐛 6 | 🌐 Vue | 📅 2023-07-26 - M2M driven tags interface.
 * [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) ⚠️ Archived - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
-* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 71 | 🐛 21 | 🌐 Vue | 📅 2026-11-07 - Tiptap rich text editor interface and display.
+* [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) ⭐ 70 | 🐛 21 | 🌐 Vue | 📅 2026-11-10 - Tiptap rich text editor interface and display.
 * [Display Link](https://github.com/jacoborus/directus-extension-display-link) ⭐ 65 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-16 - Display URLs with an "open in new tab" button.
 * [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) ⭐ 62 | 🐛 1 | 🌐 Vue | 📅 2022-05-08 - Group interface fields into a modal that can be opened with a button.
 * [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-28 - Two operations to perform image description and OCR.
@@ -97,7 +97,7 @@
 
 ### Tools
 
-* [Directus Sync](https://github.com/tractr/directus-sync) ⭐ 460 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-13 - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+* [Directus Sync](https://github.com/tractr/directus-sync) ⭐ 459 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-13 - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
 
 ## Articles
 
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

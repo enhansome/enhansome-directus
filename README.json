@@ -17,11 +17,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T18:36:16Z",
+                "last_commit": "2026-11-09T22:06:53Z",
                 "open_issues": 380,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38662,
+                "stars": 38673,
                 "topics": [
                   "api",
                   "app",
@@ -59,11 +59,11 @@
                 "id": 7122594,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T18:36:16Z",
+                "last_commit": "2026-11-09T22:06:53Z",
                 "open_issues": 380,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38662,
+                "stars": 38673,
                 "topics": [
                   "api",
                   "app",
@@ -145,7 +145,7 @@
             "id": 364084896,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-11-05T23:32:51Z",
+            "last_commit": "2026-11-09T20:33:41Z",
             "open_issues": 14,
             "owner": "gremo",
             "repo": "react-directus",
@@ -298,10 +298,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-09T09:50:08Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "formfcw",
             "repo": "directus-extension-flexible-editor",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "block-editor",
               "directus",
@@ -370,7 +370,7 @@
             "open_issues": 1,
             "owner": "resauce-dev",
             "repo": "directus-image-scout",
-            "stars": 140,
+            "stars": 139,
             "topics": [
               "directus",
               "directus-extension",
@@ -407,7 +407,7 @@
             "open_issues": 14,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-searchsync",
-            "stars": 119,
+            "stars": 118,
             "topics": [
               "algolia",
               "directus",
@@ -483,7 +483,7 @@
             "open_issues": 12,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-wpslug-interface",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "directus",
               "directus-custom-interface",
@@ -534,7 +534,7 @@
             "open_issues": 6,
             "owner": "dimitrov-adrian",
             "repo": "directus-extension-tags-m2m-interface",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "directus",
               "directus-extension",
@@ -578,11 +578,11 @@
             "id": 620377537,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-11-07T02:12:45Z",
+            "last_commit": "2026-11-10T01:08:51Z",
             "open_issues": 21,
             "owner": "gbicou",
             "repo": "directus-extension-tiptap",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "directus",
               "directus-extension",
@@ -1283,7 +1283,7 @@
                 "open_issues": 21,
                 "owner": "tractr",
                 "repo": "directus-sync",
-                "stars": 460,
+                "stars": 459,
                 "topics": [
                   "devops",
                   "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:58:54.027Z",
+    "last_updated": "2026-11-10T02:54:28.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
