@@ -24,8 +24,8 @@
 
 ### Official
 
-* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,764 | 🐛 343 | 🌐 TypeScript | 📅 2026-11-18
-* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,764 | 🐛 343 | 🌐 TypeScript | 📅 2026-11-18
+* [GitHub Repository](https://github.com/directus/directus) ⭐ 38,613 | 🐛 343 | 🌐 TypeScript | 📅 2026-11-19
+* [Community Help Board](https://github.com/directus/directus/discussions/categories/q-a) ⭐ 38,613 | 🐛 343 | 🌐 TypeScript | 📅 2026-11-19
 * [Documentation](https://docs.directus.io/getting-started/introduction/)
 * [Live Discussions on Discord](https://directus.chat)
 * [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
@@ -97,7 +97,7 @@
 
 ### Tools
 
-* [Directus Sync](https://github.com/tractr/directus-sync) ⭐ 459 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-13 - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+* [Directus Sync](https://github.com/tractr/directus-sync) ⭐ 458 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-13 - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
 
 ## Articles
 
@@ -116,7 +116,7 @@
 
 If you're using Directus in an open source project, you're very welcome to link this project here.
 
-* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 991 | 🐛 21 | 🌐 Vue | 📅 2026-11-08 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+* [Agency OS](https://github.com/directus-community/agency-os) ⭐ 990 | 🐛 21 | 🌐 Vue | 📅 2026-11-08 - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 * [Official Examples](https://github.com/directus/examples) ⚠️ Archived - Integration examples with Directus.
 * [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) ⚠️ Archived - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 * [Nextus](https://github.com/luochuanyuewu/nextus) ⚠️ Archived - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
@@ -127,4 +127,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
