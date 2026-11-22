@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T21:22:49Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38611,
+                "stars": 38616,
                 "topics": [
                   "api",
                   "app",
@@ -60,10 +60,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T21:22:49Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "directus",
                 "repo": "directus",
-                "stars": 38611,
+                "stars": 38616,
                 "topics": [
                   "api",
                   "app",
@@ -930,7 +930,7 @@
             "id": 625963121,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:31:28Z",
+            "last_commit": "2026-11-21T02:28:04Z",
             "open_issues": 16,
             "owner": "gbicou",
             "repo": "directus-extension-imagga",
@@ -1320,7 +1320,7 @@
             "open_issues": 21,
             "owner": "directus-labs",
             "repo": "agency-os",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "crm",
               "directus",
@@ -1433,7 +1433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:42:56.189Z",
+    "last_updated": "2026-11-22T00:39:08.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Directus",
